@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'geminabox', github: 'geminabox/geminabox'
+gem 'geminabox', github: 'hilli/geminabox'
 gem 'dotenv'
